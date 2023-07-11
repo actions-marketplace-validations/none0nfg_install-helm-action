@@ -1,4 +1,4 @@
-name: 'Install helm and kubectl'
+name: 'Install helm and kubectl [FORK_FIXED]'
 description: 'Install selected version of helm and kubectl'
 inputs:
   helm_version:
